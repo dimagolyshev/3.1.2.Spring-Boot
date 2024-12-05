@@ -47,7 +47,6 @@
     </dependencies>
 
     <build>
-        <finalName>spring_boot</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
